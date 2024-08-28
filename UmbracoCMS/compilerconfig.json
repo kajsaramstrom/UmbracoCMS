@@ -90,5 +90,9 @@
   {
     "outputFile": "wwwroot/scss/components/typography.css",
     "inputFile": "wwwroot/scss/components/typography.scss"
+  },
+  {
+    "outputFile": "wwwroot/scss/components/button.css",
+    "inputFile": "wwwroot/scss/components/button.scss"
   }
 ]
